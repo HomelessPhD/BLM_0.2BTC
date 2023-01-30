@@ -6,7 +6,7 @@ Thats all the data for now - several variant of the same pictures acquired from 
 
 
 ## P.S.
-Now (15/03/2021) i'm going to work on my PhD thesis, expecting to return (get back in working on BTC Puzzles) in one month (~15/04/2021). Thank you for spending time on my notes, i hope it was not totally useless and you've found something interesting. 
+Thank you for spending time on my notes, i hope it was not totally useless and you've found something interesting. 
 
 Any ideas\questions or propositions you may send to generalizatorSUB@gmail.com.
 
@@ -26,6 +26,8 @@ I am poor Ukrainian student that will really appreciate any donations.
 I have no home (flat\appartment), live in the dorm trying to accumulate funds
 for the smallest flat in the city - with no success at the moment,
 have nearly 10% of needed amount.
+
+P.S. Successfully evacuated from occupied regions of Ukraine.
 
 **BTC**:  `1QKjnfVsTT1KXzHgAFUbTy3QbJ2Hgy96WU`
 

@@ -97,7 +97,7 @@ User ["Beaneater00"](https://en.wikipedia.org/w/index.php?title=Special:Contribu
 
 The following table was generated using the available hints. It may contain incorrect words, but it provides a useful starting point:
 
-```
+
 | Order  | Word  | Description  |
 |---|---|---|
 | 1  | subject  | Appear in the section 1 (13th) or it could be 14? |
@@ -124,7 +124,7 @@ The following table was generated using the available hints. It may contain inco
 | 22  |   |   |
 | 23  |   |   |
 | 24  |   |   |
-```
+
 
 ## 1. Gold prices chart
 
